@@ -24,9 +24,19 @@ Passionate about building highly available, scalable, and secure cloud infrastru
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 Here are some of my core projects that reflect my expertise in DevOps, Cloud Infrastructure, and Platform Engineering:
 
-### 1. OFEK-AWS-CLI ☁️
+### 1. Status Page Infrastructure 🚀
+> Modern Cloud Native Infrastructure as Code on AWS
+
+A highly available, production-ready AWS environment for a Django Web App.
+
+- **Stack:** `Terraform`, `AWS EKS`, `Helm`, `Argo CD (GitOps)`, `RDS (PostgreSQL)`, `ElastiCache (Redis)`
+- **Highlights:** Features a Multi-AZ deployment, Horizontal Pod Autoscaling (HPA), and Cluster Autoscaler (successfully stress-tested). Includes secure secrets injection with External Secrets Operator, and full observability with Prometheus, Grafana, and Loki.
+
+### 2. OFEK-AWS-CLI ☁️
 > Platform Engineering Self-Service Tool
 
 A custom Python-based Command Line Interface (CLI) empowering users to manage AWS resources securely and independently.
@@ -34,7 +44,7 @@ A custom Python-based Command Line Interface (CLI) empowering users to manage AW
 - **Stack:** `Python`, `Boto3`, `AWS`
 - **Highlights:** Abstracted AWS API complexities into simplistic commands for managing EC2, S3, and Route53 resources directly from the terminal.
 
-### 2. WordPress Deployment on Kubernetes 📦
+### 3. WordPress Deployment on Kubernetes 📦
 > Container Orchestration
 
 A comprehensive project deploying and managing a resilient WordPress site on a local Kubernetes cluster environment.
@@ -42,16 +52,16 @@ A comprehensive project deploying and managing a resilient WordPress site on a l
 - **Stack:** `Kubernetes (Minikube)`, `Docker`, `Linux`
 - **Highlights:** Configured and managed the deployment lifecycle on Minikube, transitioning traditional setups into an orchestrated container environment.
 
-### 3. Infrastructure Automation with Ansible ⚙️
+### 4. Infrastructure Automation with Ansible ⚙️
 > Configuration Management
 
 Automating server provisioning and configuration to ensure consistent environments.
 
 - **Stack:** `Ansible`, `Linux`
-- **Highlights:** Developed and troubleshooted playbooks to streamline infrastructure setup and enforce desired state configurations across multiple nodes.
+- **Highlights:** Developed and troubleshooted playbooks to streamline infrastructure setup and enforce desired state configurations across multiple nodes.- **Highlights:** Developed and troubleshooted playbooks to streamline infrastructure setup and enforce desired state configurations across multiple nodes.
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ofekpensso&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>

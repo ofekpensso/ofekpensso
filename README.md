@@ -40,45 +40,31 @@
 
 Here are some of my core projects that reflect my expertise in DevOps, Cloud Infrastructure, and Platform Engineering:
 
-### 1. [Status Page Infrastructure 🚀](https://github.com/ofekpensso/status-page-infra)
+### 1. [Status Page Infrastructure 🚀](https://github.com/ofekpensso/status-page)
 > **Modern Cloud Native Infrastructure as Code on AWS**
 
 A highly available, production-ready AWS environment for a Django Web App. 
 - **Stack:** `Terraform`, `AWS EKS`, `Helm`, `Argo CD` (GitOps), `RDS (PostgreSQL)`, `ElastiCache (Redis)`.
 - **Highlights:** Features a Multi-AZ deployment, Horizontal Pod Autoscaling (HPA), and Cluster Autoscaler (successfully stress-tested). Includes secure secrets injection with External Secrets Operator, and full observability with Prometheus, Grafana, and Loki.
 
-### 2. [☁️ OFEK-AWS-CLI](https://github.com/ofekpensso/OFEK-AWS-CLI)
+### 2. [☁️ OFEK-AWS-CLI](https://github.com/ofekpensso/ofek-aws-cli)
 > **Platform Engineering Self-Service Tool**
 
 A custom Python-based Command Line Interface (CLI) empowering users to provision and manage AWS resources securely and independently.
 - **Stack:** `Python`, `Boto3`, `AWS`.
 - **Highlights:** Abstracted AWS API complexities into simplistic commands for managing EC2 instances, S3 buckets, and Route53 records directly from the terminal.
 
-### 3. [WordPress Deployment on Kubernetes 📦](https://github.com/ofekpensso/wordpress-k8s)
+### 3. [WordPress Deployment on Kubernetes 📦](https://github.com/ofekpensso/wordpress-k8s-workshop )
 > **Container Orchestration**
 
 A comprehensive project deploying and managing a resilient WordPress site on a local Kubernetes cluster environment.
 - **Stack:** `Kubernetes (Minikube)`, `Docker`, `Linux`.
 - **Highlights:** Configured and managed the deployment lifecycle on Minikube, transitioning traditional setups into an orchestrated container environment.
 
-### 4. [Infrastructure Automation with Ansible ⚙️](https://github.com/ofekpensso/ansible-project)
-> **Configuration Management**
-
-Automating server provisioning and configuration to ensure consistent environments.
-- **Stack:** `Ansible`, `Linux`.
-- **Highlights:** Developed and troubleshooted playbooks to streamline infrastructure setup and enforce desired state configurations across multiple nodes.
-
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ofekpensso&show_icons=true&theme=aurora" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ofekpensso&layout=compact&theme=aurora" height="180" alt="Top Languages" />
-</div>
-
-<br/>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ofekpensso&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>

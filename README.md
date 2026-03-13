@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Infrastructure+Enthusiast;Automation+Advocate;Continuous+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud + Engineer;Continuous+Learner" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -60,7 +60,7 @@ A custom Python-based Command Line Interface (CLI) empowering users to provision
 > **Container Orchestration**
 
 A comprehensive project deploying and managing a resilient WordPress site on a local Kubernetes cluster environment.
-- **Stack:** `Kubernetes (Minikube)`, `Docker`, `Linux`.
+- **Stack:** `Kubernetes (Minikube)`, `Docker`, `Linux`, `AWS`.
 - **Highlights:** Configured and managed the deployment lifecycle on Minikube, transitioning traditional setups into an orchestrated container environment.
 
 ---
